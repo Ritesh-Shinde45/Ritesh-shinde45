@@ -47,7 +47,11 @@ Developed an Android-based application to help locate missing individuals by ena
 
 - Designed reporting and search features  
 - Integrated backend for data storage and retrieval  
-- Focused on solving a real-world problem using technology  
+- Focused on solving a real-world problem using technology
+
+- 🔗 [HopeConnect](https://github.com/Ritesh-Shinde45/HopeConnect-App)
+- 🔗 [HopeConnect App](https://github.com/Ritesh-Shinde45/HopeConnect-App/releases/download/v1.0.0/HopeConnect.apk)
+
 
 **Network Security Analysis Lab**  
 Performed hands-on network security analysis in a controlled lab environment to understand system exposure and basic vulnerability assessment.
