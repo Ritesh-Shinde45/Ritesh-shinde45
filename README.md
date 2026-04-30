@@ -90,4 +90,4 @@ More cloud and security-focused projects are currently under development.
 Focused on building secure and reliable systems through continuous learning.
 
 
-![Views](https://komarev.com/ghpvc/?user=Ritesh-Shinde45&color=blue)
+![Views](https://komarev.com/ghpvc/?username=Ritesh-Shinde45&color=blue)
