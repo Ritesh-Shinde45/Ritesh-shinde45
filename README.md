@@ -49,8 +49,8 @@ Developed an Android-based application to help locate missing individuals by ena
 - Integrated backend for data storage and retrieval  
 - Focused on solving a real-world problem using technology
 
-- 🔗 [HopeConnect](https://github.com/Ritesh-Shinde45/HopeConnect-App)
-- 🔗 [HopeConnect App](https://github.com/Ritesh-Shinde45/HopeConnect-App/releases/download/v1.0.0/HopeConnect.apk)
+- 🔗 [HopeConnect code](https://github.com/Ritesh-Shinde45/HopeConnect)
+- 🔗 [HopeConnect App repo](https://github.com/Ritesh-Shinde45/HopeConnect-App)
 
 
 **Network Security Analysis Lab**  
